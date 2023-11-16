@@ -7,4 +7,4 @@ DIY Template, starter, boilerplate, prototype, etc. for future Web Design projec
 practice for gsap
 
 ##citations
-*GSAP scroll trigger pen
+*GSAP scroll
