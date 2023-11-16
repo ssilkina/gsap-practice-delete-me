@@ -1,4 +1,5 @@
 @import url(fonts/bevellier.css);
+@import url("https://unpkg.com/open-props");
 
 
 body,html {
